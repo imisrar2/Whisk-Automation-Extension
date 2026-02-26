@@ -1,0 +1,27 @@
+{
+    "manifest_version": 3,
+    "name": "Whisk Prompt Automator",
+    "version": "1.0",
+    "description": "Paste multiple prompts and automate submissions on Whisk (labs.google/fx/tools/whisk).",
+    "permissions": ["activeTab", "storage", "scripting"],
+    "host_permissions": [
+      "https://labs.google/*",
+      "https://*.whisk.ai/*"
+    ],
+    "action": {
+      "default_popup": "popup.html",
+      "default_title": "Whisk Automator"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://labs.google/fx/tools/whisk/*", "https://labs.google/fx/tools/whisk/*/*"],
+        "js": ["content.js"],
+        "run_at": "document_idle"
+      }
+    ],
+       "icons": {
+  "16": "icons/icon16.png"
+}
+
+  }
+  

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="24" fill="#6366F1"/>
+  
+  <!-- Sparkle -->
+  <path d="M64 28 L70 46 L88 52 L70 58 L64 76 L58 58 L40 52 L58 46 Z" fill="white"/>
+  
+  <!-- Arrow -->
+  <path d="M44 88 L84 88 L72 100 M84 88 L72 76" 
+        stroke="white" stroke-width="8" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

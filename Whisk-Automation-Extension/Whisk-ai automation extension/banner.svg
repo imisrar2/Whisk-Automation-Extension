@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 360 96">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: #fff;
+      }
+
+      .st2 {
+        font-family: ArialMT, Arial;
+        font-size: 13px;
+      }
+
+      .st2, .st1 {
+        isolation: isolate;
+      }
+
+      .st3 {
+        fill: #3b82f6;
+      }
+
+      .st4 {
+        fill: #4a90f4;
+      }
+
+      .st1 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 24px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <rect class="st3" width="360" height="96" rx="14" ry="14"/>
+  <g>
+    <rect class="st4" x="18" y="18" width="60" height="60" rx="12" ry="12"/>
+    <circle class="st0" cx="48" cy="48" r="26"/>
+    <circle class="st3" cx="48" cy="48" r="14"/>
+    <path class="st0" d="M90,13.7l4,12,12,4-12,4-4,12-4-12-12-4,12-4,4-12Z"/>
+  </g>
+  <text class="st1" transform="translate(110 40)"><tspan x="0" y="0">Whisk Automator</tspan></text>
+  <text class="st2" transform="translate(110 64)"><tspan x="0" y="0">Automate Prompts &amp; Generate Results</tspan></text>
+</svg>
